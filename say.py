@@ -1,2 +1,0 @@
-import cowsay
-import sys
